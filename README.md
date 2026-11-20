@@ -1,10 +1,5 @@
 # Ecuaciones Diferenciales Ordinarias — Primer cuatrimestre de 2016
 
-## Equipo docente
-
-- **Clases teóricas:** Ursula Molter
-- **Clases prácticas:** Mariana Prieto
-
 ## Prácticas
 
 - [Práctica 1:](EDO_2016_prac1.pdf)
